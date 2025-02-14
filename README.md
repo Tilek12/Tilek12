@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tilek</h1>
 <h3 align="center">Software developer from Kyrgyzstan</h3>
 
-- 👨‍💻 I’m currently studying in **42 Heilbronn, Germany**
+- 👨‍💻 I’m currently studying in **[42 Heilbronn Coding School, Germany](https://www.42heilbronn.de)**
 
 - 📄 My current projects: **[42 Projects](https://github.com/Tilek12/42Heilbronn)**
 
