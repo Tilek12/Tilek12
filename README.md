@@ -4,9 +4,9 @@
 
 - 👨‍💻 I’m currently studying in **42 Heilbronn, Germany**
 
-- 📄 My 42 projects **https://github.com/Tilek12/42Heilbronn**
+- 📄 My current projects: **[42 Projects](https://github.com/Tilek12/42Heilbronn)**
 
-- 📫 How to reach me **t.kubanychbekov@gmail.com**
+- 📫 How to reach me: **t.kubanychbekov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
