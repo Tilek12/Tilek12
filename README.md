@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Tilek</h1>
 <h2 align="center">Software developer from Kyrgyzstan</h2>
 
-- 👨‍💻 **I’m currently studying in: [42 Heilbronn Coding School, Germany](https://www.42heilbronn.de)**
+### 👨‍💻 **I’m currently studying in: [42 Heilbronn Coding School, Germany](https://www.42heilbronn.de)**
 
-- 📄 **My current projects: [42 Projects](https://github.com/Tilek12/42Heilbronn)**
+### 📄 **My current projects: [42 Projects](https://github.com/Tilek12/42Heilbronn)**
 
-- 📫 **How to reach me: t.kubanychbekov@gmail.com**
+### 📫 **How to reach me: t.kubanychbekov@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
