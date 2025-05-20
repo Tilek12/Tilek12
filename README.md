@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tilek</h1>
-<h2 align="center">Software developer from Kyrgyzstan</h2>
+<h2 align="center">Software Engineer from Kyrgyzstan</h2>
 
 ### 👨‍💻 **I’m currently studying in: [42 Heilbronn Coding School, Germany](https://www.42heilbronn.de)**
 
