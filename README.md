@@ -6,7 +6,7 @@
 
 ### 📄 **My 42 Heilbronn projects: [Core Curriculum](https://github.com/Tilek12/42Heilbronn)**
 
-### 📋 **My LEVEL3 Heilbronn projects: [ML & MLOps](https://github.com/Tilek12/LVL3-ml_desciption)**
+### 📋 **My LEVEL3 projects: [ML & MLOps](https://github.com/Tilek12/LVL3-ml_desciption)**
 
 ### 📫 **How to reach me: t.kubanychbekov@gmail.com**
 
