@@ -10,15 +10,16 @@
 
 ### 📫 **How to reach me: t.kubanychbekov@gmail.com**
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">📌 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tilek-kubanychbekov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tilek kubanychbekov" height="30" width="40" /></a>
 </p>
 
+---
 
-<h2 align="left">🚀 Tech Stack</h2>
+<h3 align="left">🚀 Tech Stack:</h3>
 
-<h3 align="left">Languages</h3>
+<h4 align="left">Languages</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -27,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Web & Application Development</h3>
+<h4 align="left">Web & Application Development</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40"/>
@@ -36,7 +37,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Data & Databases</h3>
+<h4 align="left">Data & Databases</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
@@ -45,7 +46,7 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/>
 </p>
 
-<h3 align="left">DevOps & Systems</h3>
+<h4 align="left">DevOps & Systems</h4>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
@@ -54,7 +55,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40"/>
 </p>
 
-<h3 align="left">Tools & Collaboration</h3>
+<h4 align="left">Tools & Collaboration</h4>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="40"/>
