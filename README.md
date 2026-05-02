@@ -4,7 +4,9 @@
 
 ### 👨‍💻 **I’m currently studying in: [42 Heilbronn Coding School, Germany](https://www.42heilbronn.de)**
 
-### 📄 **My 42Heilbronn projects: [Core Curriculum](https://github.com/Tilek12/42HN-core_projects)**
+### 📄 **My 42Heilbronn projects**: 
+  - **[Core Curriculum](https://github.com/Tilek12/42HN-core_projects)**
+  - **[Mastery Projects](https://github.com/Tilek12/42HN-mastery_projects)**
 
 ### 📋 **My LEVEL3 projects: [ML & MLOps](https://github.com/Tilek12/LVL3-ml_desciption)**
 
